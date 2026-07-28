@@ -6,7 +6,7 @@ Hi 👋, I'm Alishba Nazir
 </h1>
 
 <h3 align="center">
-💻 Software Engineer • 🤖 AI Engineer • 🚀 Full Stack Developer • 📱 React Native Developer
+💻 Software Engineer  • 🚀 Full Stack Developer • 
 </h3>
 
 <p align="center">
