@@ -14,7 +14,7 @@ Hi 👋, I'm Alishba Nazir
 </p>
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/(https://www.linkedin.com/in/alishba-nazir-9b8397240/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -22,7 +22,7 @@ Hi 👋, I'm Alishba Nazir
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AlishbaNazir">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -34,7 +34,7 @@ Hi 👋, I'm Alishba Nazir
 <p align="center">
 <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </p>
-## 👩‍💻 About Me
+## 👩‍💻 About Me 
 
 🎓 Computer Science Graduate
 
@@ -50,7 +50,7 @@ Hi 👋, I'm Alishba Nazir
 💡 Passionate about building modern, scalable software that solves real-world problems.
 
 🚀 Goal:
-Become a Software Engineer specializing in AI-powered web and mobile applications.
+Become a Software Engineer specialising in AI-powered web and mobile applications.
 
 ## 🛠️ Tech Stack
 
@@ -102,30 +102,30 @@ Responsive full-stack applications using React, Node.js, Express, and MongoDB.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlishbaNazir&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaNazir&layout=compact&theme=tokyonight"/>
 
 </p>
 ## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=AlishbaNazir&theme=tokyonight"/>
 
 </p>
 ## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishbaNazir&theme=tokyo-night"/>
 
 </p>
 ## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlishbaNazir&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 ## 💭 Developer Quote
@@ -137,14 +137,14 @@ Responsive full-stack applications using React, Node.js, Express, and MongoDB.
 </p>
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=AlishbaNazir&style=for-the-badge&color=blue"/>
 
 </p>
 ## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/AlishbaNazir/AlishbaNazir/output/github-contribution-grid-snake.svg"/>
 
 </p>
 <div align="center">
