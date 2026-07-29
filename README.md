@@ -1,7 +1,26 @@
+<!-- ============================== -->
+<!--            HEADER              -->
+<!-- ============================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=250&section=header&text=Alishba%20Nazir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Trainee%20Software%20Engineer%20|%20AI%20Intern%20|%20MERN%20Stack%20Developer&descAlignY=58&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=250&section=header&text=Alishba%20Nazir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Building%20Modern%20Web%20%26%20AI%20Solutions&descAlignY=58&descSize=22"/>
 </p>
- <h1 align="center">
+
+<h1 align="center">
+  Hi 👋, I'm Alishba Nazir
+</h1>
+
+<h3 align="center">
+  💻 Software Engineer | Building Modern Web & AI Solutions
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineer;Building+Modern+Web+%26+AI+Solutions;Full+Stack+Developer;React+Native+Developer;AI+Enthusiast;Lifelong+Learner;Always+Building+Something+New"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 Hi 👋, I'm Alishba Nazir
 </h1>
 
