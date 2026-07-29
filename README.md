@@ -1,9 +1,8 @@
 <!-- ========================================= -->
 <!--                  HEADER                    -->
 <!-- ========================================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=250&section=header&text=Alishba%20Nazir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Building%20Modern%20Web%20%26%20AI%20Solutions&descAlignY=58&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Alishba%20Nazir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Building%20Modern%20Web%20%26%20AI%20Solutions&descAlignY=58&descSize=20"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Alishba Nazir</h1>
