@@ -13,30 +13,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Software+Engineer;Building+Modern+Web+%26+AI+Solutions;Full+Stack+Developer;MERN+Stack+Developer;React+Native+Developer;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies;Open+Source+Contributor;Turning+Ideas+Into+Reality+🚀"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:alishbanazir910@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<p align="center">
   <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 </p>
 
