@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
+  <img width="500" src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmlrbTd6NGFpcmVpOXVmcjdhYWpsY2RwcTRuNTJhZ2p3aXFyYWI1YiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26vACLXgansDXwHzzI/200.webp"/>
 </p>
 
 <h3 align="center">
